@@ -9,4 +9,8 @@ simultaneously making bats not useless, and removing pesky phantoms.
 - Java >= 1.8
 - Minecraft :)
 
+## Compiling
+- Run `./gradlew build jar`
+- FInd the built jar file in `./build/libs`
+
 **Made with 💗 by Juliette Cordor**
