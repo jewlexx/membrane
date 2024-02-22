@@ -1,0 +1,7 @@
+name: membrane
+version: '${version}'
+main: com.jewelexx.membrane.Membrane
+description: Makes bats drop phantom membranes, and optionally disables phantoms completely, simultaneously making bats not useless, and removing pesky phantoms.
+author: "jewelexx"
+api-version: '1.14'
+website: www.jewelexx.com

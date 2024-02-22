@@ -1,0 +1,4 @@
+# Should disable phantom spawn. Can be "always", "natural" or "never"
+# Always will disable all phantom spawns, no matter where they came from, (command, egg, natural, etc.)
+# Natural will only disable natural phantom spawns, (i.e. not sleeping), but will still allow command/egg spawns.
+disable-phantoms: "natural"
